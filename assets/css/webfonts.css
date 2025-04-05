@@ -1,0 +1,91 @@
+@font-face {
+   font-family: 'Manrope ExtraBold';
+   src: url('../webfonts/Manrope-ExtraBold.eot');
+   src: url('../webfonts/Manrope-ExtraBold.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/Manrope-ExtraBold.woff2') format('woff2'),
+       url('../webfonts/Manrope-ExtraBold.woff') format('woff'),
+       url('../webfonts/Manrope-ExtraBold.ttf') format('truetype'),
+       url('../webfonts/Manrope-ExtraBold.svg#Manrope-ExtraBold') format('svg');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Manrope Bold';
+   src: url('../webfonts/Manrope-Bold.eot');
+   src: url('../webfonts/Manrope-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/Manrope-Bold.woff2') format('woff2'),
+       url('../webfonts/Manrope-Bold.woff') format('woff'),
+       url('../webfonts/Manrope-Bold.ttf') format('truetype'),
+       url('../webfonts/Manrope-Bold.svg#Manrope-Bold') format('svg');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Manrope Regular';
+   src: url('../webfonts/Manrope-Regular.eot');
+   src: url('../webfonts/Manrope-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/Manrope-Regular.woff2') format('woff2'),
+       url('../webfonts/Manrope-Regular.woff') format('woff'),
+       url('../webfonts/Manrope-Regular.ttf') format('truetype'),
+       url('../webfonts/Manrope-Regular.svg#Manrope-Regular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Joyride STD';
+   src: url('../webfonts/JoyrideSTD.eot');
+   src: url('../webfonts/JoyrideSTD.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/JoyrideSTD.woff2') format('woff2'),
+       url('../webfonts/JoyrideSTD.woff') format('woff'),
+       url('../webfonts/JoyrideSTD.ttf') format('truetype'),
+       url('../webfonts/JoyrideSTD.svg#JoyrideSTD') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Joyride STD Outline';
+   src: url('../webfonts/JoyrideSTDOutline.eot');
+   src: url('../webfonts/JoyrideSTDOutline.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/JoyrideSTDOutline.woff2') format('woff2'),
+       url('../webfonts/JoyrideSTDOutline.woff') format('woff'),
+       url('../webfonts/JoyrideSTDOutline.ttf') format('truetype'),
+       url('../webfonts/JoyrideSTDOutline.svg#JoyrideSTDOutline') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+    font-family: 'Joyride ALT Outline';
+    src: url('../webfonts/JoyrideALTOutline.eot');
+    src: url('../webfonts/JoyrideALTOutline.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/JoyrideALTOutline.woff2') format('woff2'),
+        url('../webfonts/JoyrideALTOutline.woff') format('woff'),
+        url('../webfonts/JoyrideALTOutline.ttf') format('truetype'),
+        url('../webfonts/JoyrideALTOutline.svg#JoyrideALTOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Joyride ALT';
+    src: url('../webfonts/JoyrideALT.eot');
+    src: url('../webfonts/JoyrideALT.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/JoyrideALT.woff2') format('woff2'),
+        url('../webfonts/JoyrideALT.woff') format('woff'),
+        url('../webfonts/JoyrideALT.ttf') format('truetype'),
+        url('../webfonts/JoyrideALT.svg#JoyrideALT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
